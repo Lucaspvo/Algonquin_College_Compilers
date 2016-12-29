@@ -1,0 +1,14 @@
+CST 8152 – Compilers - Assignment #1
+
+Due Date: prior or on January 29, 2015
+
+Earnings: 5% of your course grade (plus 1% bonus)
+
+Purpose: Programming and Using Dynamic Structures (buffers) with C
+This is a review of and an exercise in C coding style, programming techniques, data types and
+structures, memory management, and simple file input/output. It will give you a better
+understanding of the type of internal data structures used by a simple compiler you will be building
+this semester. This assignment will be also an exercise in “excessively defensive programming”.
+You are to write functions that should be “overly” protected and should not abruptly terminate or
+“crash” at run-time due to invalid function parameters, erroneous internal calculations, or memory
+violations.
